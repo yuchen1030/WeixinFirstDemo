@@ -1,0 +1,18 @@
+1、用vs2015打开；
+2、修改webconfig中的微信公众号配置；
+3、ngrok反向代理；
+4、在微信测试号中配置；
+5、在微信测试号中测试。
+
+
+本最简demo使用了盛派微信的SDK，感谢盛派微信团队贡献了这个最优秀的微信开发SDK，其地址为 https://github.com/JeffreySu/WeiXinMPSDK 。
+
+附注：微信开发过程
+
+1、创建项目（ASP.NET MVC项目）；
+2、处理上下文（MessageContext）；
+3、创建MessageHandler类；
+4、创建Controller及Action；
+5、微信后台配置；
+6、完成配置；
+7、后续开发。
